@@ -21,21 +21,21 @@ You can test and use the model totally deployed [here](https://liamarguedas-data
 
 ### Model performing in a 5 star review
 
-![Positive Sentiment](https://raw.githubusercontent.com/liamarguedas/data/main/Data-Science/Amazon-Fine-Food/Summary-Charts/Positive-Sentiment.gif)
+![Positive Sentiment](https://raw.githubusercontent.com/liamarguedas/amazon-fine-food/main/Summary-Charts/Positive-Sentiment.gif)
 
 ### Model performing in a 1 star review
 
-![Negative Sentiment](https://raw.githubusercontent.com/liamarguedas/data/main/Data-Science/Amazon-Fine-Food/Summary-Charts/Negative-Sentiment.gif)
+![Negative Sentiment](https://raw.githubusercontent.com/liamarguedas/amazon-fine-food/main/Summary-Charts/Negative-Sentiment.gif)
 
 5 and 1 Star reviews are usually easy to classify, the challenge was to classify those 3 Star reviews into positive, negative or a misture of both (Labeled as Neutral).
 
 ### Model performing in a 3 star (Sentiment Detected) review
 
-![Sentiment Detected](https://raw.githubusercontent.com/liamarguedas/data/main/Data-Science/Amazon-Fine-Food/Summary-Charts/MiddleSentimentDetected.gif)
+![Sentiment Detected](https://raw.githubusercontent.com/liamarguedas/amazon-fine-food/main/Summary-Charts/MiddleSentimentDetected.gif)
 
 ### Model performing in a 3 star (Neutral Sentiment) review
 
-![Neutral Sentiment](https://raw.githubusercontent.com/liamarguedas/data/main/Data-Science/Amazon-Fine-Food/Summary-Charts/MiddleSentiment.gif)
+![Neutral Sentiment](https://raw.githubusercontent.com/liamarguedas/amazon-fine-food/main/Summary-Charts/MiddleSentiment.gif)
 
 As seen the model perfoms really well, it is easy to implement and it can classify sentiment in entire datasets with only one function. 
 
